@@ -7,7 +7,7 @@ token = "token-goes-here"
 bot_description = "Robocop-NG, the moderation bot of ReSwitched."
 
 # If you forked robocop-ng, put your repo here
-source_url = "https://github.com/reswitched/robocop-ng"
+source_url = "https://github.com/alexdev404/robocop-ng"
 rules_url = "https://reswitched.team/discord/#rules"
 
 # The bot description to be used in .robocop embed
@@ -258,10 +258,6 @@ welcome_rules = (
     # 10
     "The first character of your server nickname should be alphanumeric if you wish to talk in chat.",
     # 11
-    """
-    Do not boost the server.
-     • ReSwitched neither wants nor needs your server boosts, and your money is better off elsewhere. Consider the EFF (or a charity of your choice).
-     • Boosting the server is liable to get you kicked (to remove the nitro boost role), and/or warned. Roles you possessed prior to the kick may not be restored in a timely fashion.
     """,
 )
 
